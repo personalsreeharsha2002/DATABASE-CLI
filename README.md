@@ -1,0 +1,2 @@
+# DATABASE-CLI
+cli for IPL DATABASE 
